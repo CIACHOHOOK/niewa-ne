@@ -1,8 +1,35 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+Witam Cię w moim CheatLoader!
+Teraz w kilku krokach przedstawie Tobie jak zainstalować cheata.
+Jeśli widzisz ten tekst to zapewne odpaliłeś już moją aplikację.
+Najważniejsze informacje:
+Wszystkie configi są zapisywane w lokalizacji:
+C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
+Link do czcionki:
+https://mega.nz/file/52wjhIqL#nIvUPAJhbtYGcGdvHwiR8BlCIOUFLcHdAGUaUS08mBA
+
+
+[JEŚLI ROBISZ TO PO RAZ PIERWSZY]
+1.Przejdź do mojej aplikacji i kliknij w obrazek w prawym górnym rogu.
+2.Pobierz czcionkę jest ona niezbędna do cheatloadera.
+3.Jeśli ją pobrałeś to otwórz ją i zainstaluj (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz instalować).
+    a) Jeśli masz problem z odpaleniem aplikacji pobierz czcionkę z linku powyżej)
+4.Po zainstalowaniu czcionki wyjdź z aplikacji i odpal ją ponownie.
+5.Teraz w całej okazałości ukarze Ci się menu aplikacji.
+6.Teraz kliknij przycisk "skopiuj HWID" (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz mi tego wysyłać).
+7.W pamięci RAM zostanie skopiowany twój HWID. Wyślij do mnie ten kod użyj kombinacji przycisków ctr+v(wklej).
+8.Teraz musisz mi dać chwilę... Muszę wrzucić te dane na serwer żeby cheat działał. Jest to ochrona przed udostępnianiem.
+9.Jeśli otrzymałeś wiadomość że twoje informacje są na serwerze Odpal csgo.exe
+10.Jeśli miałeś otwartą moją aplikacje to dobrze. Jeśli nie otwórz ją!
+11.Jeśli CSGO już odpaliłeś wejdź na chwilę do niego...Musi się wszystko załadować.
+12.Kliknij przycisk Wstrzyknij cheata.
+13.Bądź cierpliwy aktualne dane są pobierane z serwera.Poczekaj aż pasek postępu załaduje się do końca.
+14.Jeśli pasek załadował się do końca oznacza to że cheat jest już w grze.
+15.Przejdź do CSGO i ciesz się grą!
+
+
+[JEŚLI ROBISZ JUŻ TO KOLEJNY RAZ I PRZESZEDŁEŚ JUŻ KROK PIERWSZY]
+1.Odpal CSGO.
+2.Odpal moją aplikację.
+3.Kliknij przycisk wstrzyknij cheata.
+4.Przejdź do CSGO i ciesz cię grą!
+
