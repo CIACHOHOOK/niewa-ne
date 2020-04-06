@@ -1,9 +1,12 @@
 Witam Cię w moim CheatLoader!
 Teraz w kilku krokach przedstawie Tobie jak zainstalować cheata.
 Jeśli widzisz ten tekst to zapewne odpaliłeś już moją aplikację.
+
 Najważniejsze informacje:
 Wszystkie configi są zapisywane w lokalizacji:
 C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
+Link do mojego configu którego używam:
+https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
 Link do czcionki:
 https://mega.nz/file/52wjhIqL#nIvUPAJhbtYGcGdvHwiR8BlCIOUFLcHdAGUaUS08mBA
 
