@@ -7,15 +7,12 @@ Wszystkie configi są zapisywane w lokalizacji:
 C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
 Link do mojego configu którego używam:
 https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
-Link do czcionki:
-https://mega.nz/file/52wjhIqL#nIvUPAJhbtYGcGdvHwiR8BlCIOUFLcHdAGUaUS08mBA
+
 
 
 [JEŚLI ROBISZ TO PO RAZ PIERWSZY]
-1.Przejdź do mojej aplikacji i kliknij w obrazek w prawym górnym rogu.
-2.Pobierz czcionkę jest ona niezbędna do cheatloadera.
-3.Jeśli ją pobrałeś to otwórz ją i zainstaluj (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz instalować).
-    a) Jeśli masz problem z odpaleniem aplikacji pobierz czcionkę z linku powyżej)
+1.Otwórz aplikację ♛CIACHO♛™ Cheat Loader.
+2.Przejdź do folderu o lokalizacji C:\ pojawi się tam pllik o nazwie vermin_vibes.ttf jest to czcionka zainstaluj ją!
 4.Po zainstalowaniu czcionki wyjdź z aplikacji i odpal ją ponownie.
 5.Teraz w całej okazałości ukarze Ci się menu aplikacji.
 6.Teraz kliknij przycisk "skopiuj HWID" (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz mi tego wysyłać).
