@@ -12,7 +12,7 @@ https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
 
 [JEŚLI ROBISZ TO PO RAZ PIERWSZY]
 1.Otwórz aplikację ♛CIACHO♛™ Cheat Loader.
-2.Przejdź do folderu o lokalizacji C:\ pojawi się tam pllik o nazwie vermin_vibes.ttf jest to czcionka zainstaluj ją!
+2.Przejdź do folderu o lokalizacji C:\ pojawi się tam pllik o nazwie vermin_vibes_0.ttf jest to czcionka zainstaluj ją !!!KLIKAJĄC PRAWYM PRZYCISKIEM MYSZY I WYBIERAJĄC OPCJE DLA WSZYSTKICH UŻYTKOWNIKÓW JEST TO WAŻNE!!!
 4.Po zainstalowaniu czcionki wyjdź z aplikacji i odpal ją ponownie.
 5.Teraz w całej okazałości ukarze Ci się menu aplikacji.
 6.Teraz kliknij przycisk "skopiuj HWID" (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz mi tego wysyłać).
