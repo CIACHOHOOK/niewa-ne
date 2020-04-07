@@ -21,10 +21,13 @@ https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
 9.Jeśli otrzymałeś wiadomość że twoje informacje są na serwerze Odpal csgo.exe
 10.Jeśli miałeś otwartą moją aplikacje to dobrze. Jeśli nie otwórz ją!
 11.Jeśli CSGO już odpaliłeś wejdź na chwilę do niego...Musi się wszystko załadować.
-12.Kliknij przycisk Wstrzyknij cheata.
-13.Bądź cierpliwy aktualne dane są pobierane z serwera.Poczekaj aż pasek postępu załaduje się do końca.
-14.Jeśli pasek załadował się do końca oznacza to że cheat jest już w grze.
-15.Przejdź do CSGO i ciesz się grą!
+12.Jeśli chcesz załadować mój config musisz przed wstrzyknięciem wrzucić go do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
+13.Kliknij przycisk Wstrzyknij cheata.
+14.Bądź cierpliwy aktualne dane są pobierane z serwera.Poczekaj aż pasek postępu załaduje się do końca.
+15.Jeśli pasek załadował się do końca oznacza to że cheat jest już w grze.
+16.Przejdź do CSGO i ciesz się grą!
+
+Jeśli chcesz załadować mój config musisz wcześniej go wrzucić do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
 
 
 [JEŚLI ROBISZ JUŻ TO KOLEJNY RAZ I PRZESZEDŁEŚ JUŻ KROK PIERWSZY]
