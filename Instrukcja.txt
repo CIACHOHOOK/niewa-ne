@@ -5,18 +5,22 @@ Jeśli widzisz ten tekst to zapewne odpaliłeś już moją aplikację.
 Najważniejsze informacje:
 Wszystkie configi są zapisywane w lokalizacji:
 C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
+
 Link do mojego configu którego używam:
 https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
 
 
 
 [JEŚLI ROBISZ TO PO RAZ PIERWSZY]
+
 1.Otwórz aplikację ♛CIACHO♛™ Cheat Loader.
 2.Przejdź do folderu o lokalizacji C:\ pojawi się tam pllik o nazwie vermin_vibes_0.ttf jest to czcionka zainstaluj ją !!!KLIKAJĄC PRAWYM PRZYCISKIEM MYSZY I WYBIERAJĄC OPCJE DLA WSZYSTKICH UŻYTKOWNIKÓW JEST TO WAŻNE!!!
 4.Po zainstalowaniu czcionki wyjdź z aplikacji i odpal ją ponownie.
 5.Teraz w całej okazałości ukarze Ci się menu aplikacji.
 6.Teraz kliknij przycisk "skopiuj HWID" (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz mi tego wysyłać).
 7.W pamięci RAM zostanie skopiowany twój HWID. Wyślij do mnie ten kod użyj kombinacji przycisków ctr+v(wklej).
+ a) pobierz aplikacje z tego linku: https://drive.google.com/file/d/1f6TGy2UTzX_Z8o--57Sm83Lwik4gOUPC/view?usp=sharing
+ b) kliknij przycisz Get it! , skopiuj kod i wyślij mi go.
 8.Teraz musisz mi dać chwilę... Muszę wrzucić te dane na serwer żeby cheat działał. Jest to ochrona przed udostępnianiem.
 9.Jeśli otrzymałeś wiadomość że twoje informacje są na serwerze Odpal csgo.exe
 10.Jeśli miałeś otwartą moją aplikacje to dobrze. Jeśli nie otwórz ją!
@@ -27,10 +31,10 @@ https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
 15.Jeśli pasek załadował się do końca oznacza to że cheat jest już w grze.
 16.Przejdź do CSGO i ciesz się grą!
 
-Jeśli chcesz załadować mój config musisz wcześniej go wrzucić do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
 
 
 [JEŚLI ROBISZ JUŻ TO KOLEJNY RAZ I PRZESZEDŁEŚ JUŻ KROK PIERWSZY]
+
 1.Odpal CSGO.
 2.Odpal moją aplikację.
 3.Kliknij przycisk wstrzyknij cheata.
