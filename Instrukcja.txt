@@ -19,17 +19,17 @@ https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
 5.Teraz w całej okazałości ukarze Ci się menu aplikacji.
 6.Teraz kliknij przycisk "skopiuj HWID" (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz mi tego wysyłać).
 7.W pamięci RAM zostanie skopiowany twój HWID. Wyślij do mnie ten kod użyj kombinacji przycisków ctr+v(wklej).
- a) pobierz aplikacje z tego linku: https://drive.google.com/file/d/1f6TGy2UTzX_Z8o--57Sm83Lwik4gOUPC/view?usp=sharing
- b) kliknij przycisz Get it! , skopiuj kod i wyślij mi go.
 8.Teraz musisz mi dać chwilę... Muszę wrzucić te dane na serwer żeby cheat działał. Jest to ochrona przed udostępnianiem.
 9.Jeśli otrzymałeś wiadomość że twoje informacje są na serwerze Odpal csgo.exe
 10.Jeśli miałeś otwartą moją aplikacje to dobrze. Jeśli nie otwórz ją!
 11.Jeśli CSGO już odpaliłeś wejdź na chwilę do niego...Musi się wszystko załadować.
-12.Jeśli chcesz załadować mój config musisz przed wstrzyknięciem wrzucić go do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
+12.Jeśli chcesz załadować mój config musisz wrzucić go do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
 13.Kliknij przycisk Wstrzyknij cheata.
 14.Bądź cierpliwy aktualne dane są pobierane z serwera.Poczekaj aż pasek postępu załaduje się do końca.
 15.Jeśli pasek załadował się do końca oznacza to że cheat jest już w grze.
 16.Przejdź do CSGO i ciesz się grą!
+
+*jeśli chcesz załadować config przejdz do zakładki config
 
 
 
