@@ -4,10 +4,10 @@ Jeśli widzisz ten tekst to zapewne odpaliłeś już moją aplikację.
 
 Najważniejsze informacje:
 Wszystkie configi są zapisywane w lokalizacji:
-C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
+C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.2
 
 Link do mojego configu którego używam:
-https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
+https://mega.nz/file/xm4glTrR#jHdgZ3B6IdbURmTeL7kPqWJPAiyTMnpCr3InNvNIxCo
 
 
 
@@ -23,7 +23,7 @@ https://mega.nz/file/ljgBGTxA#AEaxtMw2e-ksbdA8TTzzTv07nVS4R-CIg0fmEUWsDeQ
 9.Jeśli otrzymałeś wiadomość że twoje informacje są na serwerze Odpal csgo.exe
 10.Jeśli miałeś otwartą moją aplikacje to dobrze. Jeśli nie otwórz ją!
 11.Jeśli CSGO już odpaliłeś wejdź na chwilę do niego...Musi się wszystko załadować.
-12.Jeśli chcesz załadować mój config musisz wrzucić go do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.1
+12.Jeśli chcesz załadować mój config musisz wrzucić go do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.2
 13.Kliknij przycisk Wstrzyknij cheata.
 14.Bądź cierpliwy aktualne dane są pobierane z serwera.Poczekaj aż pasek postępu załaduje się do końca.
 15.Jeśli pasek załadował się do końca oznacza to że cheat jest już w grze.
