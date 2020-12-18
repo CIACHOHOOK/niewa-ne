@@ -1,10 +1,14 @@
 Witam Cię w moim CheatLoader!
+
 Teraz w kilku krokach przedstawie Tobie jak zainstalować cheata.
 Jeśli widzisz ten tekst to zapewne odpaliłeś już moją aplikację.
 
 Najważniejsze informacje:
+
 Wszystkie configi są zapisywane w lokalizacji:
 C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.2
+aby otworzyć tą lokalizajcje kliknij w aplikacji "Otwórz folder z configami"
+
 
 Link do mojego configu którego używam:
 https://mega.nz/file/xm4glTrR#jHdgZ3B6IdbURmTeL7kPqWJPAiyTMnpCr3InNvNIxCo
@@ -15,19 +19,17 @@ https://mega.nz/file/xm4glTrR#jHdgZ3B6IdbURmTeL7kPqWJPAiyTMnpCr3InNvNIxCo
 
 1.Otwórz aplikację ♛CIACHO♛™ Cheat Loader.
 2.Przejdź do folderu o lokalizacji C:\ pojawi się tam pllik o nazwie vermin_vibes_0.ttf jest to czcionka zainstaluj ją !!!KLIKAJĄC PRAWYM PRZYCISKIEM MYSZY I WYBIERAJĄC OPCJE DLA WSZYSTKICH UŻYTKOWNIKÓW JEST TO WAŻNE!!!
-4.Po zainstalowaniu czcionki wyjdź z aplikacji i odpal ją ponownie.
-5.Teraz w całej okazałości ukarze Ci się menu aplikacji.
-6.Teraz kliknij przycisk "skopiuj HWID" (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz mi tego wysyłać).
-7.W pamięci RAM zostanie skopiowany twój HWID. Wyślij do mnie ten kod użyj kombinacji przycisków ctr+v(wklej).
-8.Teraz musisz mi dać chwilę... Muszę wrzucić te dane na serwer żeby cheat działał. Jest to ochrona przed udostępnianiem.
-9.Jeśli otrzymałeś wiadomość że twoje informacje są na serwerze Odpal csgo.exe
-10.Jeśli miałeś otwartą moją aplikacje to dobrze. Jeśli nie otwórz ją!
-11.Jeśli CSGO już odpaliłeś wejdź na chwilę do niego...Musi się wszystko załadować.
-12.Jeśli chcesz załadować mój config musisz wrzucić go do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.2
-13.Kliknij przycisk Wstrzyknij cheata.
-14.Bądź cierpliwy aktualne dane są pobierane z serwera.Poczekaj aż pasek postępu załaduje się do końca.
-15.Jeśli pasek załadował się do końca oznacza to że cheat jest już w grze.
-16.Przejdź do CSGO i ciesz się grą!
+3.Po zainstalowaniu czcionki wyjdź z aplikacji i odpal ją ponownie.
+4.Teraz w całej okazałości ukarze Ci się menu aplikacji.
+5.Teraz kliknij przycisk "skopiuj HWID" (ten krok robisz tylko raz,przy kolejnym odpaleniu loadera nie musisz 2 raz mi tego wysyłać).
+6.W pamięci RAM zostanie skopiowany twój HWID. Wyślij do mnie ten kod użyj kombinacji przycisków ctr+v(wklej).
+7.Teraz musisz mi dać chwilę... Muszę wrzucić te dane na serwer żeby cheat działał. Jest to ochrona przed udostępnianiem.
+8.Kliknij przycisk Wstrzyknij cheata.
+9.Bądź cierpliwy aktualne dane są pobierane z serwera.Poczekaj aż pasek postępu załaduje się do końca.
+10.Jeśli chcesz załadować mój config musisz wrzucić go do folderu : C:\Users\nazwa_twojego_PC\Documents\CIACHOHOOK v2.2 klikając przycisk w aplikacji "Otwórz folder z configami".
+11.Odpal teraz CSGO
+12.Jeśli pasek załadował się do końca oznacza to że cheat jest już w grze.
+13.Przejdź do CSGO i ciesz się grą!
 
 *jeśli chcesz załadować config przejdz do zakładki config
 
@@ -39,4 +41,5 @@ https://mega.nz/file/xm4glTrR#jHdgZ3B6IdbURmTeL7kPqWJPAiyTMnpCr3InNvNIxCo
 2.Odpal moją aplikację.
 3.Kliknij przycisk wstrzyknij cheata.
 4.Przejdź do CSGO i ciesz cię grą!
+
 
