@@ -1,7 +1,7 @@
 Witam Cię w moim CheatLoader!
 
 Teraz w kilku krokach przedstawie Tobie jak zainstalować cheata.
-Jeśli widzisz ten tekst to zapewne odpaliłeś już moją aplikację.
+Jeśli widzisz ten tekst to zapewne odpaliłeś już moją aplikację(jest zminimalizowana na pasku zadań).
 
 Najważniejsze informacje:
 
@@ -44,5 +44,3 @@ odzaznacz ptaszka w aplikacji przy "Czy otwierać instrukcje?"
 2.Kliknij przycisk wstrzyknij cheata.
 3.Odpal CSGO.
 4.Przejdź do CSGO i ciesz cię grą!
-
-blablaalallsa;k,ds
