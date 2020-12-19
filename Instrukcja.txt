@@ -13,6 +13,9 @@ aby otworzyć tą lokalizajcje kliknij w aplikacji "Otwórz folder z configami"
 Link do mojego configu którego używam:
 https://mega.nz/file/xm4glTrR#jHdgZ3B6IdbURmTeL7kPqWJPAiyTMnpCr3InNvNIxCo
 
+Aby wyłączyć powiadomienie przy każdym uruchomieniu aplikacji "Czy chcesz odpalić instrukcje obsługi?"
+Zjedź na sam dół tego pliku tekstowego i zmień wartość z Wyświetl instrukcje:1 na Wyświetl instrukcje:0
+
 
 
 [JEŚLI ROBISZ TO PO RAZ PIERWSZY]
@@ -37,9 +40,11 @@ https://mega.nz/file/xm4glTrR#jHdgZ3B6IdbURmTeL7kPqWJPAiyTMnpCr3InNvNIxCo
 
 [JEŚLI ROBISZ JUŻ TO KOLEJNY RAZ I PRZESZEDŁEŚ JUŻ KROK PIERWSZY]
 
-1.Odpal moją aplikację.
-2.Odpal CSGO.
+1.Odpal CSGO.
+2.Odpal moją aplikację.
 3.Kliknij przycisk wstrzyknij cheata.
 4.Przejdź do CSGO i ciesz cię grą!
+
+Wyświetl instrukcje:1
 
 
